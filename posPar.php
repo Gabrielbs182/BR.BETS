@@ -23,7 +23,7 @@ if(isset($_SESSION['logado']) and ($_SESSION['idUser'] == 1)){
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Apostas</title>
-        <link href="../CSS/estilo.css" rel="stylesheet">
+        <link href="./css/estilo.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     </head>
 
